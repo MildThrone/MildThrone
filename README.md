@@ -134,7 +134,7 @@
 ## Spotify Listening  
 
 
-### Listeniing Now  
+### Listening Now  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1azlo67bc0xp42bhnzw1hb1zm&cover_image=true&theme=compact" /></div>  
 
 <br/>  
