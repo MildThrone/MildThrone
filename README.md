@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Del, a full-stack freelance developer and ethical hacker 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Del, a full-stack freelance developer and security researacher 👨‍💻 working remotely since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on Systematic Search (public soon) and a rover to create detailed 3D maps of environments with 3 others  
