@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Del, a full-stack freelance developer and security researacher 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on Systematic Search (public soon) and a rover to create detailed 3D maps of environments with 3 others  
@@ -146,4 +146,4 @@ You can't buy me a coffee yet but you can still refer me for freelance work!
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
