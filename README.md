@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 div>  
   
 
 - 🔭 I’m currently working on Systematic Search (public soon) and a rover to create detailed 3D maps of environments with 3 others  
