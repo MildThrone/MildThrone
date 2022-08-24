@@ -6,7 +6,7 @@
 ### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 div>  
   
 
-- 🔭 I’m currently working on Systematic Search (public soon) and a rover to create detailed 3D maps of environments with 3 others  
+- 🔭 I’m currently working on an autonomous rover capable of recreating detailed 3D maps of environments with my team
   
 
 - 🌱 Currently learning Digital Forensics and Reverse Engineering, along with current school stuff  
