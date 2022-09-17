@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 div>  
+### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on an autonomous rover capable of recreating detailed 3D maps of environments with my team
