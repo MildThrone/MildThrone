@@ -139,11 +139,8 @@
 
 <br/>  
 
-
+----
 ## Support Me  
 You can't buy me a coffee yet but you can still refer me for freelance work!   
 
 <br />
-
-----
-<div align="center"><a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
