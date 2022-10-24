@@ -130,6 +130,8 @@
 
 <br/>  
 
+[![Del's github activity graph](https://activity-graph.herokuapp.com/graph?username=mildthrone&theme=dracula)]()
+
 
 ## Spotify Listening  
 
