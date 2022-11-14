@@ -6,10 +6,10 @@
 ### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on an autonomous rover capable of recreating detailed 3D maps of environments with my team
+- 🔭 I’m currently building more robots and other online bots. Open to bot ideas and work
   
 
-- 🌱 Currently learning Digital Forensics and Reverse Engineering, along with current school stuff  
+- 🌱 Currently learning Digital Forensics and Reverse Engineering, along with a lot of automation and scripting 
   
 
 - ❓ Ask me about anything related to hacking, CTFs and software development. I'd be glad to help!  
