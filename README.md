@@ -6,16 +6,16 @@
 ### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently building more robots and other online bots. Open to bot ideas and work
+- 🔭 I’m currently building robots and other online tools. Open to contract offerings and other short term work
   
 
 - 🌱 Currently learning Digital Forensics and Reverse Engineering, along with a lot of automation and scripting 
   
 
-- ❓ Ask me about anything related to hacking, CTFs and software development. I'd be glad to help!  
+- ❓ Ask me about anything related to hacking, CTFs, robotics and software engineering. I'd be glad to help!  
   
 
-- ⚡ Fun fact: I choose tabs over spaces and improper indentation in code stresses me out  
+- ⚡ Fun fact: I choose tabs over spaces and improper indentation in code stresses me out. I like my code clean.
   
 
 <br/>  
@@ -130,7 +130,7 @@
 
 <br/>  
 
-[![Del's github activity graph](https://activity-graph.herokuapp.com/graph?username=mildthrone&theme=dracula)]()
+[![Del's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mildthrone&bg_color=d9d9d9&color=411f3f&line=328b41&point=4400ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Spotify Listening  
