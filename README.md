@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Del, a security researcher and software engineer 👨‍💻 </div>  
+### <div align="center">I'm Del, and I'm primarily an AppSec engineer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently building robots and other online tools. Open to contract offerings and other short term work
   
 
-- 🌱 Currently learning Digital Forensics and Reverse Engineering, along with a lot of automation and scripting 
+- 🌱 Currently learning a ton of stuff, ranging from automation and scripting to binary exploitation methods and general embedded tech vulns
   
 
 - ❓ Ask me about anything related to hacking, CTFs, robotics and software engineering. I'd be glad to help!  
