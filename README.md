@@ -131,7 +131,7 @@
 
 <br/>  
 
-[![Del's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mildthrone&bg_color=d9d9d9&color=411f3f&line=328b41&point=4400ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Del's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mildthrone&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Spotify Listening  
