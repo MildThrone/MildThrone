@@ -127,7 +127,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MildThrone&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MildThrone&show_icons=true&count_private=true&hide_border=true&theme=one_dark_pro&rank_icon=github" align="center" /></div>  
 
 <br/>  
 
